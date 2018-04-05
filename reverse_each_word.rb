@@ -4,3 +4,4 @@ def reverse_each_word("Hello there, and how are you?")
     element.reverse 
   end #do
   array.join(" ")
+end
